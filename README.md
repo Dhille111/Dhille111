@@ -1,8 +1,3 @@
-<!-- Beautiful Tech Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="Kotilingala Dhille Rao Banner" width="100%" style="border-radius: 10px;" />
-</p>
-
 # <p align="center">👋 Hello World, I'm Kotilingala Dhille Rao!</p>
 
 <p align="center">
