@@ -19,6 +19,9 @@
   <a href="https://github.com/Dhille111">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://github.com/Dhille111">
+    <img src="https://img.shields.io/badge/Contributions-511%20Last%20Year-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contributions" />
+  </a>
 </p>
 
 ---
@@ -148,6 +151,7 @@ I enjoy building innovative AI-powered applications that solve real-world proble
 ## 🏆 Achievements
 
 * 🥇 **Smart India Hackathon (SIH) 2025** – Top 5 Team
+* 📈 **511 GitHub Contributions** in the last year
 * 🏅 **HackerRank Python Certification**
 * 🏅 **Java Certification**
 * 🎯 Multiple AI & Machine Learning Projects Completed
