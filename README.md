@@ -172,7 +172,11 @@ I enjoy building innovative AI-powered applications that solve real-world proble
 
 <p align="center">
   <b>🐍 GitHub Contribution Snake</b><br>
-  <img src="https://raw.githubusercontent.com/Dhille111/Dhille111/output/github-contribution-grid-snake.svg" alt="Snake animation" width="97%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhille111/Dhille111/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhille111/Dhille111/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Dhille111/Dhille111/output/github-snake.svg" width="97%" />
+  </picture>
 </p>
 
 ---
