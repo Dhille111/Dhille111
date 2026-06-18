@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhille111&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 ## 👤 Profile Snapshot
